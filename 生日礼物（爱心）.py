@@ -1,7 +1,9 @@
 import turtle as t
 
 
-print("生日7！")
+
+print("快乐！")
+
 #定义star函数
 def star(p,s,c,x,y):
      t.goto(x,y)
