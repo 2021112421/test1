@@ -1,4 +1,4 @@
-a=2
+a=78
 
 while True:
     print(a)
